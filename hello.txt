@@ -4,6 +4,14 @@ hello world !!
 
 Hello world !!!!!!！！！！！
 
+<<<<<<< .merge_file_AKA4Bj
+hello！！！！22222
+=======
 hello！！！！
 
+<<<<<<< HEAD
 2222
+=======
+Ceshi
+>>>>>>> .merge_file_u6O6Yk
+>>>>>>> 81ae36cd7cd7b8068a68fcf1827bb50be6288e99
