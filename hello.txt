@@ -4,4 +4,10 @@ hello world !!
 
 Hello world !!!!!!！！！！！
 
+<<<<<<< .merge_file_AKA4Bj
 hello！！！！22222
+=======
+hello！！！！
+
+Ceshi
+>>>>>>> .merge_file_u6O6Yk
